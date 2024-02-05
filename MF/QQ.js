@@ -479,7 +479,7 @@ async function getMusicSheetInfo(sheet, page) {
 }
 module.exports = {
     platform: "QQ音乐",
-    version: "0.0.7",
+    version: "1.0.7",
     author: 'Wh1taco1a/小诚',
     srcUrl: "http://www.skeo.net/music/qq.js",
     cacheControl: "no-cache",
