@@ -533,7 +533,7 @@ async function getMusicSheetInfo(sheet, page) {
 }
 module.exports = {
     platform: "网易云",
-    version: "0.0.6",
+    version: "1.0.6",
     author: 'Wh1taco1a/小诚',
     appVersion: ">0.1.0-alpha.0",
     srcUrl: "http://www.skeo.net/music/wyy.js",
