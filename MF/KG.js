@@ -375,7 +375,7 @@ async function getRecommendSheetsByTag(tag, page) {
 }
 module.exports = {
     platform: "酷狗",
-    version: "0.0.5",
+    version: "1.0.5",
     author: 'Wh1taco1a/小诚',
     appVersion: ">0.1.0-alpha.0",
     srcUrl: "http://www.skeo.net/music/kugou.js",
