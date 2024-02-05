@@ -445,7 +445,7 @@ async function getTopListDetail(topListItem, page = 1) {
 }
 module.exports = {
     platform: "Audiomack",
-    version: "0.0.2",
+    version: "1.0.2",
     author: 'Wh1taco1a/小诚',
     primaryKey: ["id", "url_slug"],
     srcUrl: "http://www.skeo.net/music/audiomack.js",
